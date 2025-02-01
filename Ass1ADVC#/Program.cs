@@ -170,7 +170,7 @@ namespace Ass1ADVC_
 
             //------------------------------------------------------------------//
 
-            //string str1 = "selena";
+            //string str1 = "taylor";
             //string str2 = "mohamed";
             //string str3 = "momo";
           
